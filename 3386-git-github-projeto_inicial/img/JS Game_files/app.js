@@ -1,5 +1,5 @@
 // let numeroSecreto = parseInt(Math.random() * 11)
-// let tentativas = 1
+// let tentativas = 3
 // let chute
 
 // alert('Boas vindas ao jogo do número secreto')
